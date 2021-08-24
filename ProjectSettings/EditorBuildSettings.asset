@@ -5,9 +5,6 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/Scenes/Main Menu.unity
     guid: 159917a39fa5b9843b6594ef488994e0
@@ -21,8 +18,8 @@ EditorBuildSettings:
     path: Assets/Scenes/Control Menu.unity
     guid: 62c36a1ff9e4ed04fb9b89f031257149
   - enabled: 1
-    path: Assets/Scenes/Redemption.unity
-    guid: c941e556063689b499f93b0a40590f86
+    path: Assets/Scenes/Temple of Shadow.unity
+    guid: 04ff0fef5c5233a47a68cc5b96e62d71
   - enabled: 0
     path: Assets/Scenes/Beta.unity
     guid: e02b41c3850ee8e4f9bcae1094330fb9
