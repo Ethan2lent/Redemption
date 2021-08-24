@@ -7,6 +7,6 @@ public class LevelUP : MonoBehaviour
 {
     public void WinScreen()
     {
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene(1);
     }
 }
