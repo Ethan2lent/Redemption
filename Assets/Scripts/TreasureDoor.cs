@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class TreasureDoor : MonoBehaviour
 {
+    public AudioSource audioSource;
     public int treasureCounter;
     void Start()
     {
@@ -15,6 +16,7 @@ public class TreasureDoor : MonoBehaviour
     {
         if (treasureCounter == 4)
         {
+            audioSource.Play();
             Destroy(gameObject);
         }
     }
